@@ -1,4 +1,5 @@
 *.zip
+bikedata_2020.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
